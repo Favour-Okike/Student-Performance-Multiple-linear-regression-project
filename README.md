@@ -44,7 +44,7 @@ The goal is to understand how multiple variables collectively influence student 
 
 ## 📈 Model Evaluation
 - **R² Score:** Measures how well the independent variables explain the variance in student performance.
-- **Cross-Validation:** score means that the model has been evaluated multiple times on different portions of the data, and the score is the average result.
+- **Cross-Validation Score :** This signifies that the model has been evaluated multiple times on different portions of the data, and the score is the average result.
 - **RMSE:** Measures the average prediction error in the same units as the target variable.
 
 Lower RMSE and higher R² indicate better model performance.
